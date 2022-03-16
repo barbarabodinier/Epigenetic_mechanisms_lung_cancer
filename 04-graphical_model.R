@@ -2,7 +2,7 @@ rm(list = ls())
 
 library(openxlsx)
 library(RColorBrewer)
-library(focus)
+library(sharp)
 library(igraph)
 
 # Loading the data

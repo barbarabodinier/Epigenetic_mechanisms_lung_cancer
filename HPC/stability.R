@@ -1,6 +1,6 @@
 setwd("../")
 
-library(focus)
+library(sharp)
 library(glmnet)
 
 # Loading the arguments

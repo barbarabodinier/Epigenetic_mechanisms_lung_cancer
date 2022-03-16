@@ -1,7 +1,7 @@
 rm(list = ls())
 
 library(glmnet)
-library(focus)
+library(sharp)
 library(pROC)
 library(openxlsx)
 library(plotrix)

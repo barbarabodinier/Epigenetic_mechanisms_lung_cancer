@@ -1,6 +1,6 @@
 setwd("../Results/")
 
-library(focus)
+library(sharp)
 
 args <- commandArgs(trailingOnly = TRUE)
 print(args)
